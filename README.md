@@ -10,7 +10,7 @@ To run the test, use the following command:
 Username and password if not provided in command line, can be specified in config.properties as well.
   
 Local report is created in target folder.
-Sharable report is created and published on https://reports.cucumber.io/reports
+Sharable report is created and published on https://reports.cucumber.io/
   
 
 ![cucumberReport](https://user-images.githubusercontent.com/29970107/144972379-6aa8b49b-db87-44c4-a148-0eb51882490d.PNG)
